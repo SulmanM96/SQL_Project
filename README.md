@@ -1,4 +1,4 @@
-#SQL
+# SQL
 An SQL Project based on the Northwind databse using Azure, to complete certain tasks given. Used Docker to simulate a virtual machine in which we could gain access to SQL database through it.
 
 Getting Started
@@ -10,5 +10,5 @@ Must have Azure Download can find the lastest version here: https://azure.micros
 Running the tests
 Some lines of Codes have been commented out using '--' remove them and run the file to see different test populate
 
-Authors
+Author
 Sulman Malik 
